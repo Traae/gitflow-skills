@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 where did the original go?
+=======
+second verse. same as the first
+>>>>>>> vv1.0.0
